@@ -44,6 +44,6 @@ Includes 6 subnets with ranges and broadcast addresses
 - DNS resolution worked as expected.
 - Ping and tracert confirmed full reachability.
 
-## 👥 Authors
+## 👥 Contributors
 - [**Razan Abdelrahman**](https://github.com/razanodeh01)
 - [**Maisam Alaa**](https://github.com/maisamjuma)
